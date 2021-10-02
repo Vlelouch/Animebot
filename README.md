@@ -1,2 +1,2 @@
 # Animebot
- Hello world|
+ Hello world!
